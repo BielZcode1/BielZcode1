@@ -4,13 +4,13 @@ Bem-vindo ao **AstroBotPro**, um sistema para criação, gerenciamento e monitor
 
 ## Tecnologias Utilizadas
 
-- **HTML** ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
-- **CSS** ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
-- **PHP** ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-- **Java** ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
-- **C#** ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp)
-- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ## Funcionalidades
 
