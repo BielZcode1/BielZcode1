@@ -4,13 +4,13 @@ Bem-vindo ao **AstroBotPro**, um sistema para criação, gerenciamento e monitor
 
 ## Tecnologias Utilizadas
 
-- **HTML** ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_512.png)
-- **CSS** ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/64/CSS3_logo.svg)
-- **PHP** ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
-- **JavaScript** ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.png)
-- **Java** ![Java](https://upload.wikimedia.org/wikipedia/commons/6/63/Java_logo.svg)
-- **C#** ![C#](https://upload.wikimedia.org/wikipedia/commons/4/47/Csharp_logo.png)
-- **MySQL** ![MySQL](https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.png)
+- **HTML** ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
+- **CSS** ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3)
+- **PHP** ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+- **Java** ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+- **C#** ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp)
+- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 
 ## Funcionalidades
 
