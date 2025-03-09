@@ -4,12 +4,13 @@ Bem-vindo ao **AstroBotPro**, um sistema para criação, gerenciamento e monitor
 
 ## Tecnologias Utilizadas
 
-- **HTML** <i class="fab fa-html5"></i>
-- **CSS** <i class="fab fa-css3-alt"></i>
-- **PHP** <i class="fab fa-php"></i>
-- **JavaScript** <i class="fab fa-js"></i>
-- **MySQL** <i class="fas fa-database"></i>
-- **Node.js** <i class="fab fa-node"></i>
+- **HTML** ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_512.png)
+- **CSS** ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/64/CSS3_logo.svg)
+- **PHP** ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+- **JavaScript** ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript-logo.png)
+- **Java** ![Java](https://upload.wikimedia.org/wikipedia/commons/6/63/Java_logo.svg)
+- **C#** ![C#](https://upload.wikimedia.org/wikipedia/commons/4/47/Csharp_logo.png)
+- **MySQL** ![MySQL](https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.png)
 
 ## Funcionalidades
 
@@ -26,7 +27,6 @@ Para rodar o projeto localmente, siga os passos abaixo:
 ### Pré-requisitos
 
 - [XAMPP](https://www.apachefriends.org/index.html) (para servidores locais PHP)
-- [Node.js](https://nodejs.org/)
 - MySQL
 
 ### Passos para Rodar
